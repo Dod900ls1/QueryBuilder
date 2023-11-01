@@ -1,5 +1,6 @@
 <details>
 <summary>English</summary>
+  
 # BigQuery Model Query Generator
 
 **BigQuery Model Query Generator** is a Python program built using the tkinter library that provides a graphical user interface (GUI) for generating SQL queries to create machine learning models in Google BigQuery. 
@@ -49,6 +50,7 @@ Contributions are welcome! If you have ideas for improvements, bug fixes, or new
 
 <details>
 <summary>Українська</summary>
+  
 # BigQuery Model Query Generator
 
 **BigQuery Model Query Generator** — це програма на Python, створена з використанням бібліотеки tkinter, яка надає графічний інтерфейс користувача (GUI) для створення запитів SQL для створення моделей машинного навчання в Google BigQuery.
